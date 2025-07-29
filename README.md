@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Parth A. Hoke
+🎓 Final Year CSE Student at VVP College, Solapur  
+👨‍💻 Aspiring Software Engineer | Java • SQL • Firebase • App Developer  
+📱 Currently building a Smart Medicine Reminder App using MIT App Inventor & Firebase  
+🎥 Content Creator: [CodeStorieswithparth](https://www.youtube.com/@CodeStorieswithparth)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hoke-parth-ashokrao-35b2502a0/)
 
-<!--
-**parthAhoke/ParthAHoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🚀 Tech Stack
+- Java, SQL, Firebase
+- Android App Development (MIT App Inventor)
+- Git & GitHub
+- AI tools for content creation
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 📌 Projects
+- Smart Medicine Reminder App (In Progress)
+- More to be added soon...
