@@ -7,6 +7,13 @@
 
 ---
 ## 🚀 Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Data Analytics
+- Machine Learning
+- Excel
 - Java, SQL, Firebase
 - Android App Development (MIT App Inventor)
 - Git & GitHub
@@ -14,5 +21,9 @@
 
 ---
 ## 📌 Projects
+- Stock Market Prediction
+- AI Crop Disease Detection
+- SmartAttend Analytics
+- Digital Token Management
 - Smart Medicine Reminder App (In Progress)
 - More to be added soon...
